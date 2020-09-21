@@ -47,8 +47,6 @@
 
 ---
 
----
-
 [facebook]: https://www.facebook.com/MhmodTayel
 [twitter]: https://twitter.com/mhmodTayel
 [instagram]: https://www.instagram.com/mhmodtayel
