@@ -47,6 +47,8 @@
 
 ---
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MhmodTayel)](https://github.com/anuraghazra/github-readme-stats)
+
 [facebook]: https://www.facebook.com/MhmodTayel
 [twitter]: https://twitter.com/mhmodTayel
 [instagram]: https://www.instagram.com/mhmodtayel
